@@ -44,12 +44,11 @@ Una tienda de repuestos desea automatizar el proceso de facturación mediante un
 
 ### Cliente normal (opción 1)
 
-![Cliente normal](./imagenes/Opcion1.png)
+![Cliente normal](./Opcion1.png)
 
 ### Cliente frecuente (opción 2)
 
-![Cliente frecuente](./imagenes/Opcion2.png)
-
+![Cliente frecuente](./Opcion2.png)
 ---
 
 ## Tecnologías utilizadas
